@@ -12,6 +12,8 @@ N/A
 
 To use this website, click the red "Generate Password" button and answer the prompts about your password requirements. Once all of the questions are answered, the new password will generate on the page.
 
+![a screenshot the password generator](https://github.com/KTullock/password-generator/blob/main/Assests/Images/screenshot.png)
+
 ## Credits
 
 For extra help on coding:
